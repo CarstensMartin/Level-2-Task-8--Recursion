@@ -4,7 +4,7 @@
 
 Follow these steps:
 
-● In a file called palindromeRecursion.java, create:
+● In a file called palindrome.java, create:
 
 o a recursive function that determines whether a given array is a palindrome.
 
